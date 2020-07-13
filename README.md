@@ -1,1 +1,1 @@
-# data-science-in-economics
+# data-science-in-economics -webinar event
